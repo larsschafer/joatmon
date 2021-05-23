@@ -76,3 +76,4 @@ exclude:
   - README.md
   - netlify.toml
   - stackbit-build.sh
+domain: 'https://joatmon.netlify.app/'
