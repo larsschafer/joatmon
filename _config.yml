@@ -57,8 +57,7 @@ header:
       icon_class: dev
       new_window: true
 footer:
-  content: >-
-    &copy; joatmon. All rights reserved.
+  content: '&copy; joatmon. All rights reserved.'
 sass:
   indentWidth: 4
   style: nested
@@ -77,4 +76,3 @@ exclude:
   - README.md
   - netlify.toml
   - stackbit-build.sh
-domain: 'https://adorable-mars-a65e9.netlify.app'
