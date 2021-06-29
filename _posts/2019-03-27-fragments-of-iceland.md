@@ -5,7 +5,7 @@ excerpt: >-
   has given me a lot of fun, but also a lot of travelling down the dead ends.
   When it comes to the more important changes that relates to fitness, health
   and in particular weight, there has never been any shortage of ideas.
-date: '2019-03-27'
+date: '2019-02-27'
 thumb_img_path: images/7.jpg
 thumb_img_alt: Icelandic horses
 content_img_path: images/7.jpg
