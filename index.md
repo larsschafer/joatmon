@@ -11,11 +11,13 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >
+      As we all move through life, trying to navigate the infinite
+      possibillities and opportunities that comes our way, we learn, we live, we
+      explore. I have finally decided to make an old dream come true, and share
+      past, present and evolving stories from my modest life. Mostly because I
+      like to give it at try and because I am sure there is a lot to be learned.
+      I hope you enjoy it, and feedback is for sure always welcome. 
     actions:
       - label: Contact Me
         url: /contact
