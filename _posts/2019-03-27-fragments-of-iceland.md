@@ -1,9 +1,10 @@
 ---
 title: Time to change things
 excerpt: >-
-  Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
-  It has a population of 325,671 and an area of 103,000 km2 (40,000 sq mi),
-  making it the most sparsely populated country in Europe.
+  I have always been a great fan of the concept of "learn by doing", and it sure
+  has given me a lot of fun, but also a lot of travelling down the dead ends.
+  When it comes to the more important changes that relates to fitness, health
+  and in particular weight, there has never been any shortage of ideas.
 date: '2019-03-27'
 thumb_img_path: images/7.jpg
 thumb_img_alt: Icelandic horses
